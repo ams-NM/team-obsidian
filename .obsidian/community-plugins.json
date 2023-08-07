@@ -1,4 +1,13 @@
 [
   "obsidian-mkdocs-publisher",
-  "obsidian-git"
+  "obsidian-git",
+  "calendar",
+  "obsidian-advanced-uri",
+  "dataview",
+  "obsidian-emoji-toolbar",
+  "meld-encrypt",
+  "nldates-obsidian",
+  "periodic-notes",
+  "obsidian-vimrc-support",
+  "templater-obsidian"
 ]

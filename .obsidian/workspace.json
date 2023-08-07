@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Task-Tracking.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Task-Tracking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Task-Tracking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,8 +126,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Task-Tracking.md"
               }
+            }
+          },
+          {
+            "id": "e6de196865a1740a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -143,18 +152,59 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "meld-encrypt:Create new encrypted note": false,
+      "periodic-notes:Open today": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "7a3e60a4e24a5bdc",
+  "active": "565b6aaf2aa6d740",
   "lastOpenFiles": [
-    "docs/Home.md",
+    "🏡Home.md",
+    "Task-Tracking.md",
     "README.md",
-    "docs/2nd page.md",
-    "conflict-files-obsidian-git.md",
-    "Home.md",
-    "2nd page.md",
-    "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",
-    "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0"
+    "Vault.md",
+    "Weekly/2023 w35.md",
+    "Weekly/2023 w34.md",
+    "Weekly/2023 w33.md",
+    "Weekly/2023 w32.md",
+    "Weekly/2023 w31.md",
+    "Weekly/2023 w30.md",
+    "Weekly/2023 w29.md",
+    "Weekly/2023 w28.md",
+    "Weekly/2023 w27.md",
+    "Weekly/2023 w26.md",
+    "Weekly/2023 w25.md",
+    "Weekly/2023 w24.md",
+    "Weekly/2023 w23.md",
+    "Weekly/2023 w22.md",
+    "Weekly/2023 w21.md",
+    "Weekly/2023 w20.md",
+    "Weekly/2023 w19.md",
+    "Weekly/2023 w18.md",
+    "Weekly/2023 w17.md",
+    "Weekly/2023 w16.md",
+    "Weekly/2023 w15.md",
+    "Weekly/2023 w14.md",
+    "Weekly",
+    "Templates",
+    "Systems/Navaids",
+    "Systems",
+    "Someday-Maybe/PTB220TS_userguide.pdf",
+    "Someday-Maybe",
+    "Scripts/publish.bat",
+    "Scripts/is_today.js",
+    "Scripts/get_relative_date.js",
+    "Scripts",
+    "Attachments/Vaisala Message Service.jpg",
+    "Attachments/PM Labor Hours.jpeg",
+    "Attachments/MRB TP1 signal.png",
+    "Attachments/MRB TP1 & TP3 signals.png",
+    "Attachments/MRB test points signals.png",
+    "Attachments/MRB test points desc.png",
+    "Attachments/MRB desc.png",
+    "Attachments/Liebert GXT3.jpg",
+    "Attachments/Liebert GXT3 Battery.jpg",
+    "Attachments/FD12P maintenance port 1.jpg"
   ]
 }
