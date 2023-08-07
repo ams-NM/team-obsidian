@@ -18,8 +18,8 @@
     "rateLimit": 4980
   },
   "upload": {
-    "behavior": "obsidian",
-    "defaultName": "",
+    "behavior": "fixed",
+    "defaultName": "docs",
     "rootFolder": "",
     "yamlFolderKey": "",
     "frontmatterTitle": {
