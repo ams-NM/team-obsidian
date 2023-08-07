@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2nd page.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2nd page.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2nd page.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2nd page.md"
+                "file": "Home.md"
               }
             }
           }
@@ -173,8 +173,8 @@
   },
   "active": "784ce66944d4f69e",
   "lastOpenFiles": [
-    "Home.md",
     "2nd page.md",
+    "Home.md",
     "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",
     "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0",
     "README.md"

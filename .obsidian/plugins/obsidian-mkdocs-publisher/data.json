@@ -15,10 +15,10 @@
     },
     "otherRepo": [],
     "verifiedRepo": true,
-    "rateLimit": 4996
+    "rateLimit": 4980
   },
   "upload": {
-    "behavior": "fixed",
+    "behavior": "obsidian",
     "defaultName": "",
     "rootFolder": "",
     "yamlFolderKey": "",
