@@ -1,6 +1,6 @@
-site_name: your_site_name # Change this to your site name
-site_description: A cool description of your site
-site_url: https://change_me.io/ # Change this to your site URL
+site_name: AMS NM Team
+site_description: Task & Event Tracking
+site_url: https://ams-nm.github.io/team/ 
 
 theme:
     name: 'material'
