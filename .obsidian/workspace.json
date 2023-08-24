@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Task-Tracking.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -154,12 +154,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "meld-encrypt:Create new encrypted note": false,
-      "periodic-notes:Open today": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "565b6aaf2aa6d740",
   "lastOpenFiles": [
+    "docs/Task-Tracking.md",
     "🏡Home.md",
     "Task-Tracking.md",
     "README.md",
@@ -185,7 +186,6 @@
     "Weekly/2023 w17.md",
     "Weekly/2023 w16.md",
     "Weekly/2023 w15.md",
-    "Weekly/2023 w14.md",
     "Weekly",
     "Templates",
     "Systems/Navaids",
